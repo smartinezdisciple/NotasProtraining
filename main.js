@@ -1,14 +1,14 @@
 const ICONOS = {
-  "Canto": "mic",
+  "Canto": "mic_external_on",
   "Piano": "piano",
-  "Guitarra": "guitar_acoustic",
-  "Bajo": "audio_video",
+  "Guitarra": "music_note",
+  "Bajo": "music_note",
   "Sonido": "graphic_eq",
-  "Danza": "accessibility",
-  "Emociones": "favorite",
+  "Danza": "accessibility_new",
+  "Emociones": "add_reaction",
   "Idiomas": "language",
-  "Deportes": "sports_soccer",
-  "Batería": "drum"
+  "Deportes": "sports_and_outdoor",
+  "Batería": "wand_stars"
 };
 
 function renderizarCursos(cursos) {
