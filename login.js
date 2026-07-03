@@ -1,16 +1,12 @@
-import { generarDiccionarioCodigos } from "./utils.js";
-import { leerExcel } from "./excel.js";
-
 let DICCIONARIO = {};
 
-fetch("excel.xlsx")
-  .then(r => r.arrayBuffer())
-  .then(buf => leerExcel(new File([buf], "excel.xlsx")))
-  .then(estudiantes => {
-    DICCIONARIO = generarDiccionarioCodigos(estudiantes);
+fetch("codigos.json")
+  .then(r => r.json())
+  .then(diccionario => {
+    DICCIONARIO = diccionario;
     console.log(`Cargados ${Object.keys(DICCIONARIO).length} estudiantes`);
   })
-  .catch(err => console.error("Error cargando Excel:", err));
+  .catch(err => console.error("Error cargando códigos:", err));
 
 document.getElementById("login-form").addEventListener("submit", function (e) {
   e.preventDefault();
