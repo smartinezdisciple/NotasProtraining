@@ -6,7 +6,7 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
   const codigoIngresado = document.getElementById("access-code").value.trim();
 
   if (codigoIngresado === CODIGO) {
-    window.location.href = "index.html";
+    window.location.href = "main.html";
   } else {
     alert("Código incorrecto. Intenta de nuevo.");
   }
