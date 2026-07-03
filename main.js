@@ -7,8 +7,8 @@ const ICONOS = {
   "Danza": "accessibility_new",
   "Emociones": "add_reaction",
   "Idiomas": "language",
-  "Deportes": "sports_and_outdoor",
-  "Batería": "wand_stars"
+  "Deportes": "sports",
+  "Batería": "auto_awesome"
 };
 
 function renderizarCursos(cursos) {
