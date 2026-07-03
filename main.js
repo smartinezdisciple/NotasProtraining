@@ -39,7 +39,7 @@ function renderizarCursos(cursos) {
       </div>
       <div class="w-full flex justify-center mt-2 border-t border-white/5 pt-4">
         <div class="text-center">
-          <p class="font-label-sm text-label-sm text-on-surface-variant mb-1 uppercase tracking-widest opacity-70">Final Grade</p>
+          <p class="font-label-sm text-label-sm text-on-surface-variant mb-1 uppercase tracking-widest opacity-70">Nota final</p>
           <p class="font-headline-md text-headline-md text-secondary-fixed">${curso.notaFinal}</p>
         </div>
       </div>
