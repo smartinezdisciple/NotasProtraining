@@ -1,2 +1,4 @@
 opencode.jsonc
-~$*.xlsx
+node_modules/
+*.xlsx
+*.txt
