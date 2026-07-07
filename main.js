@@ -8,7 +8,8 @@ const ICONOS = {
   "Emociones": "add_reaction",
   "Idiomas": "language",
   "Deportes": "sports",
-  "Batería": "auto_awesome"
+  "Batería": "auto_awesome",
+  "Artes Plásticas": "palette"
 };
 
 function renderizarCursos(cursos) {

@@ -1,2622 +1,1646 @@
 {
-  "u4;2": [
+  "9x3a": [
+    {
+      "nombre": "Ajeleth Juseth Enriquez Reyes",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Ajeleth Juseth Enriquez Reyes",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 54,
+      "disciplina": "Emociones"
+    }
+  ],
+  "46hP": [
+    {
+      "nombre": "Alexander Samuel Gutiérrez Carvajal",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 27,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 97,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Alexander Samuel Gutiérrez Carvajal",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Alexander Samuel Gutiérrez Carvajal",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Emociones"
+    }
+  ],
+  "FL71": [
     {
       "nombre": "Alexandra Nicoll Martínez Gonzales",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 27.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 87.0,
+      "acumulado": 27,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 87,
       "disciplina": "Canto"
     }
   ],
-  "8F8;": [
-    {
-      "nombre": "Gabriela Nicole McField Gutiérrez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 7.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 77.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Gabriela Nicole McField Gutiérrez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "{2x9": [
-    {
-      "nombre": "Samara Nohemí Gutiérrez Navarro",
-      "clase": "Ballet Clásico",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 36.0,
-      "teorico": 30.0,
-      "notaFinal": 66.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Samara Nohemí Gutiérrez Navarro",
-      "clase": "Preparación Física",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 35.0,
-      "teorico": 45.0,
-      "notaFinal": 80.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "%X47": [
-    {
-      "nombre": "Xanders Yareth Arce Rosales",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "0>p%": [
-    {
-      "nombre": "Gabriela Sarahí Perez Chavarria",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 37.0,
-      "teorico": 36.0,
-      "notaFinal": 73.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Gabriela Sarahí Perez Chavarria",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 91.0,
-      "teorico": 0.0,
-      "notaFinal": 91.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Gabriela Sarahí Perez Chavarria",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 88.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "3)ZR": [
-    {
-      "nombre": "Isaí Román Corea González",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 60.0,
-      "practico": 10.0,
-      "teorico": 10.0,
-      "notaFinal": 80.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "f61*": [
-    {
-      "nombre": "Sofía Julieth Matamoros Lumbí",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 16.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 76.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Sofía Julieth Matamoros Lumbí",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "S^7P": [
-    {
-      "nombre": "Ricardo Steven Ortíz Aguirre",
-      "clase": "Sonido Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 63.0,
-      "disciplina": "Sonido"
-    }
-  ],
-  "-$r5": [
-    {
-      "nombre": "Elizabeth Sofía Carrillo Soto",
-      "clase": "Ballet Clásico",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 35.0,
-      "teorico": 30.0,
-      "notaFinal": 65.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Elizabeth Sofía Carrillo Soto",
-      "clase": "Preparación Física",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 42.0,
-      "teorico": 49.0,
-      "notaFinal": 91.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "37;F": [
-    {
-      "nombre": "Gabriela Liliet Porras Bojorge",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 7.0,
-      "practico": 0.0,
-      "teorico": 50.0,
-      "notaFinal": 57.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Gabriela Liliet Porras Bojorge",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 62.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "8V=<": [
-    {
-      "nombre": "Elías Gamaliel Vilchez López",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "+1f3": [
-    {
-      "nombre": "Génesis Sarahí Calero Baez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 6.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 66.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Génesis Sarahí Calero Baez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Génesis Sarahí Calero Baez",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "D4$2": [
-    {
-      "nombre": "Steven Josué Chávez Campos",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 29.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 99.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Steven Josué Chávez Campos",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "}1dZ": [
-    {
-      "nombre": "Elías Samuel Balladares Zelaya",
-      "clase": "Idiomas",
-      "nivel": "Portugués",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 9.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "2>R$": [
-    {
-      "nombre": "Abigail Omaly Arce Rosales",
-      "clase": "Ballet Clásico",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 46.0,
-      "teorico": 42.0,
-      "notaFinal": 88.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Abigail Omaly Arce Rosales",
-      "clase": "Danza Interpretativa",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 42.0,
-      "teorico": 49.0,
-      "notaFinal": 91.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "/ne8": [
-    {
-      "nombre": "Nolaska de los Ángeles Argeñal Guillén",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 17.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 87.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Nolaska de los Ángeles Argeñal Guillén",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "S|*4": [
-    {
-      "nombre": "José Isaí Osorno",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 66.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "({H4": [
-    {
-      "nombre": "Farieska Litmaris Hernádez Castillo",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 58.0,
-      "practico": 0.0,
-      "teorico": 38.0,
-      "notaFinal": 96.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Farieska Litmaris Hernádez Castillo",
-      "clase": "Canto Elemental",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 92.0,
-      "teorico": 90.0,
-      "notaFinal": 91.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "ex5*": [
-    {
-      "nombre": "Franklin Isaac Callejas Treminio",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "C5z,": [
-    {
-      "nombre": "Jasid Jasiel Colomer Gonzáles",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 46.0,
-      "practico": 0.0,
-      "teorico": 31.0,
-      "notaFinal": 77.0,
-      "disciplina": "Batería"
-    },
-    {
-      "nombre": "Jasid Jasiel Colomer Gonzáles",
-      "clase": "Elemental Drums",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "s-K6": [
-    {
-      "nombre": "Samuel Isaí Pérez Narváez",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 45.0,
-      "practico": 0.0,
-      "teorico": 25.0,
-      "notaFinal": 70.0,
-      "disciplina": "Batería"
-    },
-    {
-      "nombre": "Samuel Isaí Pérez Narváez",
-      "clase": "Elemental Drums",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 40.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "89;N": [
-    {
-      "nombre": "Jessli Dayana Martínez Delgado",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 23.0,
-      "practico": 0.0,
-      "teorico": 50.0,
-      "notaFinal": 73.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Jessli Dayana Martínez Delgado",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Jessli Dayana Martínez Delgado",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 78.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "|8<Q": [
-    {
-      "nombre": "Harry Isaías Jarquin García",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 86.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Harry Isaías Jarquin García",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "5E>!": [
-    {
-      "nombre": "Karla Nohemí Obando Sánchez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 70.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Karla Nohemí Obando Sánchez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "|2-Q": [
-    {
-      "nombre": "Roger Alexander Torres García",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "65=o": [
-    {
-      "nombre": "Ailen Jolibeth Torres Rodríguez",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "Cb^4": [
-    {
-      "nombre": "Reynaldo Elías Durán Díaz",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Reynaldo Elías Durán Díaz",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "4W,@": [
-    {
-      "nombre": "Mary Esther Bonilla Espinoza",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 17.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 77.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Mary Esther Bonilla Espinoza",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Mary Esther Bonilla Espinoza",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 96.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "%2Ir": [
-    {
-      "nombre": "Jair Arsenio Herrera Espinoza",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 31.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 31.0,
-      "disciplina": "Batería"
-    },
-    {
-      "nombre": "Jair Arsenio Herrera Espinoza",
-      "clase": "Elemental Drums",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "|0g|": [
-    {
-      "nombre": "Samuel Elí Lorente Icabalceta",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Samuel Elí Lorente Icabalceta",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "m-67": [
-    {
-      "nombre": "Gibrán Abdiel Colomer Gonzáles",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Emociones"
-    },
-    {
-      "nombre": "Gibrán Abdiel Colomer Gonzáles",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "v3t^": [
-    {
-      "nombre": "Camila Alejandra Centeno Mendoza",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Camila Alejandra Centeno Mendoza",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "g;D9": [
-    {
-      "nombre": "Aurora Elena Cordero Urtado",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Aurora Elena Cordero Urtado",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "n2|}": [
-    {
-      "nombre": "Isaac Antonio Escorcia Navarro",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 49.0,
-      "practico": 0.0,
-      "teorico": 30.0,
-      "notaFinal": 79.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Isaac Antonio Escorcia Navarro",
-      "clase": "Canto Elemental",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 88.0,
-      "teorico": 85.0,
-      "notaFinal": 86.5,
-      "disciplina": "Canto"
-    }
-  ],
-  "?6?X": [
-    {
-      "nombre": "Victor Isaías Soto González",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 79.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "=b5^": [
-    {
-      "nombre": "Giselle Abigail Martínez Grande",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Giselle Abigail Martínez Grande",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "A{9,": [
-    {
-      "nombre": "Diego Ismael Calonge Mejía",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 89.5,
-      "disciplina": "Emociones"
-    },
-    {
-      "nombre": "Diego Ismael Calonge Mejía",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "9%6D": [
-    {
-      "nombre": "José Elías Vallejos Castellón",
-      "clase": "Idiomas",
-      "nivel": "Inglés",
-      "acumulado": 0.0,
-      "practico": 30.0,
-      "teorico": 40.0,
-      "notaFinal": 70.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "&Ls0": [
-    {
-      "nombre": "Millie Alexandra Delgado Zambrana",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Millie Alexandra Delgado Zambrana",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "t9[2": [
-    {
-      "nombre": "Yoanna Hurtado Poll",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Yoanna Hurtado Poll",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "14.g": [
-    {
-      "nombre": "Marlon Enrique Calderón Parrales",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 70.0,
-      "teorico": 70.0,
-      "notaFinal": 70.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "!.k6": [
-    {
-      "nombre": "John Danny Villigas Valdés",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 93.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "2h5#": [
-    {
-      "nombre": "Ajeleth Juseth Enriquez Reyes",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Ajeleth Juseth Enriquez Reyes",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 54.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "}s2r": [
-    {
-      "nombre": "Maritsa Daniela Pineda López",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 33.0,
-      "teorico": 37.0,
-      "notaFinal": 70.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Maritsa Daniela Pineda López",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 65.0,
-      "teorico": 0.0,
-      "notaFinal": 65.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "S7P#": [
-    {
-      "nombre": "Génesis Vega López",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 6.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 66.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Génesis Vega López",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 50.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "8J!3": [
-    {
-      "nombre": "Ángel Sebastián Luna Munguía",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 85.0,
-      "teorico": 85.0,
-      "notaFinal": 85.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "+S1$": [
-    {
-      "nombre": "Gabriel Elías Madrigal Jarquín",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "_k64": [
-    {
-      "nombre": "Rodolfo Josué Jarquín Rocha",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 77.5,
-      "disciplina": "Emociones"
-    },
-    {
-      "nombre": "Rodolfo Josué Jarquín Rocha",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 47.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "i2([": [
-    {
-      "nombre": "Génesis Betzabe Vega Lopez",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 78.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "#z3M": [
-    {
-      "nombre": "Samuel Alejandro Obando Zeledón",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 51.0,
-      "practico": 20.0,
-      "teorico": 20.0,
-      "notaFinal": 91.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "n@r5": [
-    {
-      "nombre": "Adriana Marina Luna Osorio",
-      "clase": "Idiomas",
-      "nivel": "Inglés",
-      "acumulado": 0.0,
-      "practico": 40.0,
-      "teorico": 45.0,
-      "notaFinal": 85.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "Yc5)": [
-    {
-      "nombre": "Zildgean Skarleth Rodríguez Aguilar",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 27.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 97.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Zildgean Skarleth Rodríguez Aguilar",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "q89{": [
-    {
-      "nombre": "Gabriela Elena Aguilar Lopez",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 60.0,
-      "teorico": 60.0,
-      "notaFinal": 60.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "X-s6": [
-    {
-      "nombre": "Blanca Azucena Lanuza Tórrez",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Blanca Azucena Lanuza Tórrez",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "X1,U": [
-    {
-      "nombre": "Eyleen Carolina Zeledón Pineda",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "93B%": [
-    {
-      "nombre": "Ariel Josué Paizano Gonzales",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "R!8/": [
-    {
-      "nombre": "Ian Alberto Oviedo Borge",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 10.0,
-      "teorico": 10.0,
-      "notaFinal": 10.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "MX2;": [
-    {
-      "nombre": "Jared David Espinoza Sotelo",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 44.0,
-      "practico": 0.0,
-      "teorico": 29.0,
-      "notaFinal": 73.0,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Jared David Espinoza Sotelo",
-      "clase": "Fundamentos de la Guitarra",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "8)1e": [
-    {
-      "nombre": "Jonathan Gabriel Baez Hernandez",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 75.0,
-      "notaFinal": 77.5,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "7JE*": [
-    {
-      "nombre": "Ana Sofía Aguilar López",
-      "clase": "Idiomas",
-      "nivel": "Francés",
-      "acumulado": 0.0,
-      "practico": 74.0,
-      "teorico": 0.0,
-      "notaFinal": 37.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "7]An": [
+  "M4U5": [
     {
       "nombre": "Amy Geovana Flores Montalván",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 14.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 74.0,
+      "acumulado": 14,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 74,
       "disciplina": "Canto"
     },
     {
       "nombre": "Amy Geovana Flores Montalván",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
       "disciplina": "Canto"
     }
   ],
-  "6,i8": [
-    {
-      "nombre": "José Antonio Calonge Martin",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "5<4c": [
-    {
-      "nombre": "Arlen Karina Rivas Briceño",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 21.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 91.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Arlen Karina Rivas Briceño",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 82.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Arlen Karina Rivas Briceño",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 97.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "N1>D": [
-    {
-      "nombre": "Edwin Abraham Ramírez Palacios",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 60.0,
-      "practico": 0.0,
-      "teorico": 35.0,
-      "notaFinal": 95.0,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Edwin Abraham Ramírez Palacios",
-      "clase": "Fundamentos de la Guitarra",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 90.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "O)2J": [
-    {
-      "nombre": "Leyla Abigail Flores Lopez",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 10.0,
-      "teorico": 10.0,
-      "notaFinal": 10.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "1m$=": [
-    {
-      "nombre": "Sofía Julieth Matamoros Lumbi",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 44.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  ")6S{": [
-    {
-      "nombre": "Ester Nohemí Rodríguez Sánchez",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 36.0,
-      "teorico": 37.0,
-      "notaFinal": 73.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Ester Nohemí Rodríguez Sánchez",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 91.0,
-      "teorico": 0.0,
-      "notaFinal": 91.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "#2sr": [
-    {
-      "nombre": "Melissa Jashuara García Morales",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 70.0,
-      "teorico": 70.0,
-      "notaFinal": 70.0,
-      "disciplina": "Piano"
-    },
-    {
-      "nombre": "Melissa Jashuara García Morales",
-      "clase": "Idiomas",
-      "nivel": "Inglés",
-      "acumulado": 0.0,
-      "practico": 43.0,
-      "teorico": 45.0,
-      "notaFinal": 88.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  ",4xu": [
-    {
-      "nombre": "Jennifer Kate Reyes Vallecillo",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Jennifer Kate Reyes Vallecillo",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Jennifer Kate Reyes Vallecillo",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 65.0,
-      "teorico": 65.0,
-      "notaFinal": 65.0,
-      "disciplina": "Piano"
-    }
-  ],
-  ":<4p": [
-    {
-      "nombre": "Dennyse Camila Espinoza Venegas",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "]L=7": [
-    {
-      "nombre": "Leónidas Antonio Lacayo Hernández",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 85.0,
-      "teorico": 90.0,
-      "notaFinal": 87.5,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Leónidas Antonio Lacayo Hernández",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "=r75": [
-    {
-      "nombre": "Dany Josué Robleto Mendoza",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Dany Josué Robleto Mendoza",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "7&SK": [
-    {
-      "nombre": "Esther Nohemí Hernández Acevedo",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 96.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "8>X:": [
-    {
-      "nombre": "Patricia Jessenia Cárcamo Roque",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 17.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 77.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Patricia Jessenia Cárcamo Roque",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 65.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "cc)3": [
-    {
-      "nombre": "Javy Lisbeth Cáceres Ramírez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 20.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Javy Lisbeth Cáceres Ramírez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 98.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Javy Lisbeth Cáceres Ramírez",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 88.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "3D*_": [
-    {
-      "nombre": "Kamila Nazareth Téllez Ortega",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 36.0,
-      "teorico": 45.0,
-      "notaFinal": 81.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Kamila Nazareth Téllez Ortega",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 91.0,
-      "teorico": 0.0,
-      "notaFinal": 91.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Kamila Nazareth Téllez Ortega",
-      "clase": "Idiomas",
-      "nivel": "Portugués",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 9.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "]6d,": [
-    {
-      "nombre": "Julio César Lopez Membreño",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 58.0,
-      "practico": 20.0,
-      "teorico": 19.0,
-      "notaFinal": 97.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "2^I[": [
-    {
-      "nombre": "Victoria Elizabeth Sandoval Astacio",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Victoria Elizabeth Sandoval Astacio",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "q3W&": [
-    {
-      "nombre": "Ricardo José Sánchez Miranda",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 85.0,
-      "teorico": 95.0,
-      "notaFinal": 90.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "?Lw3": [
-    {
-      "nombre": "Teresa Geraldine Ponce Quezada",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 43.0,
-      "teorico": 44.0,
-      "notaFinal": 87.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Teresa Geraldine Ponce Quezada",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 87.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Teresa Geraldine Ponce Quezada",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 74.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "9+$c": [
-    {
-      "nombre": "Cristian Ernesto Sequeira Castilla",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "a(58": [
-    {
-      "nombre": "Lidia Patricia Laguna Cruz",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 22.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 82.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Lidia Patricia Laguna Cruz",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 55.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "G2*:": [
-    {
-      "nombre": "Julio Martínez Grande",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "9/6n": [
-    {
-      "nombre": "Samuel Ismael Mercado Valerio",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "{C3@": [
-    {
-      "nombre": "Fernanda Sophia Miranda Martinez",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Fernanda Sophia Miranda Martinez",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "MB5<": [
-    {
-      "nombre": "Rita Fabiola Reyes López",
-      "clase": "Idiomas",
-      "nivel": "Inglés",
-      "acumulado": 0.0,
-      "practico": 40.0,
-      "teorico": 43.0,
-      "notaFinal": 83.0,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "9n=:": [
+  "u09i": [
     {
       "nombre": "Andrea Belén Vallecillo Escobar",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 28.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 98.0,
+      "acumulado": 28,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 98,
       "disciplina": "Canto"
     },
     {
       "nombre": "Andrea Belén Vallecillo Escobar",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
       "disciplina": "Canto"
     },
     {
       "nombre": "Andrea Belén Vallecillo Escobar",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
       "disciplina": "Emociones"
     }
   ],
-  "j6e|": [
+  "a4o4": [
     {
-      "nombre": "Amy Flores Montalván",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 73.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "=0s3": [
-    {
-      "nombre": "Jubal Emmanuel Arauz Ponce",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "xW+7": [
-    {
-      "nombre": "Angie Isabella Zamorio Aguirre",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Angie Isabella Zamorio Aguirre",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "4A+6": [
-    {
-      "nombre": "Joshua David Muller Castillo",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 51.0,
-      "practico": 20.0,
-      "teorico": 19.0,
-      "notaFinal": 90.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "7u?<": [
-    {
-      "nombre": "Osmin Matías Soto Gonzales",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    },
-    {
-      "nombre": "Osmin Matías Soto Gonzales",
-      "clase": "Elemental Drums",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 70.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "e6[5": [
-    {
-      "nombre": "André Josué Flores Ponce",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 51.0,
-      "practico": 20.0,
-      "teorico": 20.0,
-      "notaFinal": 91.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  ">]I4": [
-    {
-      "nombre": "Sandro Josué Flores",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 83.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "_25D": [
-    {
-      "nombre": "Diego Jazel Otero Ponce",
-      "clase": "Iniciación Musical",
-      "nivel": "K",
-      "acumulado": 46.0,
-      "practico": 0.0,
-      "teorico": 24.0,
-      "notaFinal": 70.0,
-      "disciplina": "Guitarra"
-    },
-    {
-      "nombre": "Diego Jazel Otero Ponce",
-      "clase": "Fundamentos de la Guitarra",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 60.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "bQ9&": [
-    {
-      "nombre": "Angie Gissell González Amador",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 42.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "e-B0": [
-    {
-      "nombre": "Rossy Liseth Box Gaitán",
-      "clase": "Ballet Clásico",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 37.0,
-      "teorico": 37.0,
-      "notaFinal": 74.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Rossy Liseth Box Gaitán",
-      "clase": "Preparación Física",
-      "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 43.0,
-      "teorico": 50.0,
-      "notaFinal": 93.0,
-      "disciplina": "Danza"
-    }
-  ],
-  "L[|7": [
-    {
-      "nombre": "Génesis Salazar",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "6>4h": [
-    {
-      "nombre": "Hendrick Neftali Jarquín Moreno",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 59.0,
-      "practico": 20.0,
-      "teorico": 20.0,
-      "notaFinal": 99.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "bz,3": [
-    {
-      "nombre": "Josué Isaac Montano",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 79.5,
-      "disciplina": "Emociones"
-    }
-  ],
-  "6+C0": [
-    {
-      "nombre": "Marcos Aurelio Barrantes Linarte",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 95.0,
-      "teorico": 95.0,
-      "notaFinal": 95.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "*e75": [
-    {
-      "nombre": "Ana Joyce Torrez Rodriguez",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "Q)0S": [
-    {
-      "nombre": "John Frank Muñoz Zeas",
+      "nombre": "Arlen Karina Rivas Briceño",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 8.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 68.0,
+      "acumulado": 21,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 91,
       "disciplina": "Canto"
     },
     {
-      "nombre": "John Frank Muñoz Zeas",
+      "nombre": "Arlen Karina Rivas Briceño",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 82,
       "disciplina": "Canto"
-    }
-  ],
-  ":8B$": [
+    },
     {
-      "nombre": "Julio Eliseo Martínez Grande",
+      "nombre": "Arlen Karina Rivas Briceño",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 88.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 97,
       "disciplina": "Emociones"
     }
   ],
-  "4?k<": [
+  "gm15": [
     {
-      "nombre": "Fátima Marbelly Pasos López",
-      "clase": "Armonía",
+      "nombre": "Bayardo Antonio Hernández Sánchez",
+      "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Piano"
+      "acumulado": 8,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 78,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Bayardo Antonio Hernández Sánchez",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Canto"
     }
   ],
-  "9<{r": [
+  "x09f": [
+    {
+      "nombre": "Brayan Josué Lagos Lazo",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 8,
+      "practico": 0,
+      "teorico": 10,
+      "notaFinal": 18,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Brayan Josué Lagos Lazo",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 45,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Brayan Josué Lagos Lazo",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Emociones"
+    }
+  ],
+  "f6y2": [
+    {
+      "nombre": "Carlos Eduardo Olivares Chavarría",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 18,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 18,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Carlos Eduardo Olivares Chavarría",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Canto"
+    }
+  ],
+  "3I6n": [
     {
       "nombre": "Cindy Paola Navarro Ponce",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 17.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 87.0,
+      "acumulado": 17,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 87,
       "disciplina": "Canto"
     },
     {
       "nombre": "Cindy Paola Navarro Ponce",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
       "disciplina": "Canto"
     },
     {
       "nombre": "Cindy Paola Navarro Ponce",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 78.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 78,
       "disciplina": "Emociones"
     }
   ],
-  "U[+0": [
+  "d98z": [
     {
-      "nombre": "María Lourdes Salgado Cerna",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 70.0,
-      "teorico": 70.0,
-      "notaFinal": 70.0,
-      "disciplina": "Piano"
-    },
-    {
-      "nombre": "María Lourdes Salgado Cerna",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 93.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "5+UX": [
-    {
-      "nombre": "Leticia Isabella Ulloa",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "l]?3": [
-    {
-      "nombre": "Andrés Sebastián Urey Bustamante",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 95.0,
-      "teorico": 95.0,
-      "notaFinal": 95.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "o#v0": [
-    {
-      "nombre": "Rosanna Karelly Téllez Ortéga",
+      "nombre": "Cristel Dayana Rivas Sanchez",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 27.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 97.0,
+      "acumulado": 24,
+      "practico": 0,
+      "teorico": 50,
+      "notaFinal": 74,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Rosanna Karelly Téllez Ortéga",
+      "nombre": "Cristel Dayana Rivas Sanchez",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 55,
       "disciplina": "Canto"
+    },
+    {
+      "nombre": "Cristel Dayana Rivas Sanchez",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Emociones"
     }
   ],
-  "5up(": [
+  "9U6l": [
     {
-      "nombre": "Miguel Ángel Ruíz Saravia",
-      "clase": "Armonía",
+      "nombre": "Emma Ester Acuña Calvo",
+      "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "a66]": [
-    {
-      "nombre": "Yeshua Villagra Torrez",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 92.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "_#5D": [
-    {
-      "nombre": "Carlos Fernando Sequeira Rivera",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "acumulado": 7,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 67,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Carlos Fernando Sequeira Rivera",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "@3A+": [
-    {
-      "nombre": "Diana Lucía Leytón Gutiérrez",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 86.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Diana Lucía Leytón Gutiérrez",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Diana Lucía Leytón Gutiérrez",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "]7E^": [
-    {
-      "nombre": "Jonathan Gabriel Baez Hernández",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 93.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "@&y7": [
-    {
-      "nombre": "Cindy Doreana Veliz Bustos",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Cindy Doreana Veliz Bustos",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "[44C": [
-    {
-      "nombre": "Álvaro Francisco Romero Olivares",
-      "clase": "Bajo",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Bajo"
-    }
-  ],
-  ":CY4": [
-    {
-      "nombre": "Liliana Edith Gadea González",
-      "clase": "Armonía",
+      "nombre": "Emma Ester Acuña Calvo",
+      "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "1Q+G": [
-    {
-      "nombre": "Edgard Alfonso García Lacayo",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "[@7t": [
-    {
-      "nombre": "Martín Alonso Picado",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 68.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "C]S7": [
-    {
-      "nombre": "Drumari Belén Morales Acosta",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 83.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Drumari Belén Morales Acosta",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 78,
       "disciplina": "Canto"
     }
   ],
-  "d[}3": [
+  "N9G9": [
     {
       "nombre": "Ericka del Carmen Reyes Jiménez",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 6.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 76.0,
+      "acumulado": 6,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 76,
       "disciplina": "Canto"
     },
     {
       "nombre": "Ericka del Carmen Reyes Jiménez",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
       "disciplina": "Canto"
     }
   ],
-  "D91{": [
+  "8J1w": [
     {
-      "nombre": "Christian Martín Tellez Palacios",
-      "clase": "Sonido Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Sonido"
-    }
-  ],
-  "m9^j": [
-    {
-      "nombre": "María Lídia Castillo",
+      "nombre": "Gabriela Liliet Porras Bojorge",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 23.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 83.0,
+      "acumulado": 7,
+      "practico": 0,
+      "teorico": 50,
+      "notaFinal": 57,
       "disciplina": "Canto"
     },
     {
-      "nombre": "María Lídia Castillo",
+      "nombre": "Gabriela Liliet Porras Bojorge",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 62,
       "disciplina": "Canto"
     }
   ],
-  "81+H": [
+  "24uh": [
     {
-      "nombre": "Álvaro Isaac Berrios Padilla",
-      "clase": "Sonido Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Sonido"
-    },
-    {
-      "nombre": "Álvaro Isaac Berrios Padilla",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 91.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "d1R:": [
-    {
-      "nombre": "Cristel Dayana Rivas Sanchez",
+      "nombre": "Gabriela Nicole McField Gutiérrez",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 24.0,
-      "practico": 0.0,
-      "teorico": 50.0,
-      "notaFinal": 74.0,
+      "acumulado": 7,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 77,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Cristel Dayana Rivas Sanchez",
+      "nombre": "Gabriela Nicole McField Gutiérrez",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 55.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Canto"
+    }
+  ],
+  "T06l": [
+    {
+      "nombre": "Génesis Sarahí Calero Baez",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 6,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 66,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Cristel Dayana Rivas Sanchez",
+      "nombre": "Génesis Sarahí Calero Baez",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Génesis Sarahí Calero Baez",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
       "disciplina": "Emociones"
     }
   ],
-  "sM3>": [
+  "52dY": [
     {
-      "nombre": "Derick Neftalí Luna Dávila",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Emociones"
-    },
-    {
-      "nombre": "Derick Neftalí Luna Dávila",
-      "clase": "Básico Drums",
+      "nombre": "Génesis Vega López",
+      "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "4s1.": [
-    {
-      "nombre": "Diego Sebastian Rodríguez Herrera",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 90.0,
-      "teorico": 90.0,
-      "notaFinal": 90.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "I2/M": [
-    {
-      "nombre": "Michael Alexander Rivas Pinéda",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "acumulado": 6,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 66,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Michael Alexander Rivas Pinéda",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "nombre": "Génesis Vega López",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 50,
       "disciplina": "Canto"
     }
   ],
-  "3S%=": [
-    {
-      "nombre": "Juan Ramón Rodríguez Estrada",
-      "clase": "Fútbol",
-      "nivel": "Fútbol",
-      "acumulado": 60.0,
-      "practico": 10.0,
-      "teorico": 10.0,
-      "notaFinal": 80.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "(O,7": [
+  "v50Q": [
     {
       "nombre": "Ingrid Nathalia Bravo Valle",
       "clase": "Anatomía del Canto",
       "nivel": "1",
-      "acumulado": 21.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 91.0,
+      "acumulado": 21,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 91,
       "disciplina": "Canto"
     },
     {
       "nombre": "Ingrid Nathalia Bravo Valle",
       "clase": "Técnica del Canto 1",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
       "disciplina": "Canto"
     },
     {
       "nombre": "Ingrid Nathalia Bravo Valle",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
       "notaFinal": 90.5,
       "disciplina": "Emociones"
     }
   ],
-  "7c)2": [
+  "8H4J": [
+    {
+      "nombre": "Javy Lisbeth Cáceres Ramírez",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 20,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Javy Lisbeth Cáceres Ramírez",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 98,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Javy Lisbeth Cáceres Ramírez",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 88,
+      "disciplina": "Emociones"
+    }
+  ],
+  "l7R6": [
+    {
+      "nombre": "Jessli Dayana Martínez Delgado",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 23,
+      "practico": 0,
+      "teorico": 50,
+      "notaFinal": 73,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Jessli Dayana Martínez Delgado",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Jessli Dayana Martínez Delgado",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 78,
+      "disciplina": "Emociones"
+    }
+  ],
+  "y19b": [
+    {
+      "nombre": "John Danny Villegas Valdez",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 18,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 88,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "John Danny Villegas Valdez",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "sT46": [
+    {
+      "nombre": "John Frank Muñoz Zeas",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 8,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 68,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "John Frank Muñoz Zeas",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "GW01": [
+    {
+      "nombre": "José Carlos Morales Cerna",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 19,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 89,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "José Carlos Morales Cerna",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "fT33": [
+    {
+      "nombre": "José Gabriel Aldana Espinoza",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 13,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 73,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "José Gabriel Aldana Espinoza",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 62,
+      "disciplina": "Canto"
+    }
+  ],
+  "Dk62": [
+    {
+      "nombre": "Karen Alejandra Zeledón Padilla",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 22,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 92,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Karen Alejandra Zeledón Padilla",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Canto"
+    }
+  ],
+  "C62x": [
+    {
+      "nombre": "Karla Nohemí Obando Sánchez",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 70,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Karla Nohemí Obando Sánchez",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Canto"
+    }
+  ],
+  "w49D": [
+    {
+      "nombre": "Kathia Liorseth Robleto Mendoza",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 24,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 84,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Kathia Liorseth Robleto Mendoza",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Kathia Liorseth Robleto Mendoza",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 92.5,
+      "disciplina": "Emociones"
+    }
+  ],
+  "52pV": [
+    {
+      "nombre": "Lidia Patricia Laguna Cruz",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 22,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 82,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Lidia Patricia Laguna Cruz",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 55,
+      "disciplina": "Canto"
+    }
+  ],
+  "SQ65": [
+    {
+      "nombre": "María Celeste Carrasco Obando",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 16,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 86,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "María Celeste Carrasco Obando",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "María Celeste Carrasco Obando",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 92,
+      "disciplina": "Emociones"
+    }
+  ],
+  "GK63": [
+    {
+      "nombre": "María Lídia Castillo",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 23,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 83,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "María Lídia Castillo",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    }
+  ],
+  "0ga3": [
+    {
+      "nombre": "Mary Esther Bonilla Espinoza",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 17,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 77,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Mary Esther Bonilla Espinoza",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Mary Esther Bonilla Espinoza",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 96,
+      "disciplina": "Emociones"
+    }
+  ],
+  "y70X": [
+    {
+      "nombre": "Moises Emilio Arroliga Espinoza",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 18,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 88,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Moises Emilio Arroliga Espinoza",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Moises Emilio Arroliga Espinoza",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 94,
+      "disciplina": "Emociones"
+    }
+  ],
+  "A4U0": [
+    {
+      "nombre": "Nolaska de los Ángeles Argeñal Guillén",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 17,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 87,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Nolaska de los Ángeles Argeñal Guillén",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    }
+  ],
+  "2uv2": [
+    {
+      "nombre": "Patricia Jessenia Cárcamo Roque",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 17,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 77,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Patricia Jessenia Cárcamo Roque",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 65,
+      "disciplina": "Canto"
+    }
+  ],
+  "N3d8": [
+    {
+      "nombre": "Rosanna Karelly Téllez Ortéga",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 27,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 97,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Rosanna Karelly Téllez Ortéga",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "iP91": [
+    {
+      "nombre": "Sandra Nichole Jarquín Medina",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 60,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Sandra Nichole Jarquín Medina",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 98,
+      "disciplina": "Canto"
+    }
+  ],
+  "L92T": [
+    {
+      "nombre": "Sofía Julieth Matamoros Lumbí",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 16,
+      "practico": 0,
+      "teorico": 60,
+      "notaFinal": 76,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Sofía Julieth Matamoros Lumbí",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
+      "disciplina": "Canto"
+    }
+  ],
+  "Vi22": [
+    {
+      "nombre": "Steven Josué Chávez Campos",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 29,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 99,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Steven Josué Chávez Campos",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
+      "disciplina": "Canto"
+    }
+  ],
+  "29IL": [
+    {
+      "nombre": "Zildgean Skarleth Rodríguez Aguilar",
+      "clase": "Anatomía del Canto",
+      "nivel": "1",
+      "acumulado": 27,
+      "practico": 0,
+      "teorico": 70,
+      "notaFinal": 97,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Zildgean Skarleth Rodríguez Aguilar",
+      "clase": "Técnica del Canto 1",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "b6J1": [
+    {
+      "nombre": "Alejandra Nicole Villagra Torres",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Alejandra Nicole Villagra Torres",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "42qz": [
+    {
+      "nombre": "Allison Paola Mayorga Anton",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Allison Paola Mayorga Anton",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "7o3F": [
+    {
+      "nombre": "Angie Isabella Zamorio Aguirre",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Angie Isabella Zamorio Aguirre",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "0x7T": [
+    {
+      "nombre": "Aurora Elena Cordero Urtado",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Aurora Elena Cordero Urtado",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "th49": [
+    {
+      "nombre": "Blanca Azucena Lanuza Tórrez",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Blanca Azucena Lanuza Tórrez",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "dU42": [
+    {
+      "nombre": "Camila Alejandra Centeno Mendoza",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Camila Alejandra Centeno Mendoza",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
+      "disciplina": "Canto"
+    }
+  ],
+  "76yu": [
+    {
+      "nombre": "Carlos Fernando Sequeira Rivera",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Carlos Fernando Sequeira Rivera",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "6nH9": [
+    {
+      "nombre": "Cindy Doreana Veliz Bustos",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Cindy Doreana Veliz Bustos",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "9bi4": [
+    {
+      "nombre": "Diana Lucía Leytón Gutiérrez",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 86,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Diana Lucía Leytón Gutiérrez",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Diana Lucía Leytón Gutiérrez",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    }
+  ],
+  "52Tp": [
+    {
+      "nombre": "Drumari Belén Morales Acosta",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 83,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Drumari Belén Morales Acosta",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "s23O": [
     {
       "nombre": "Edith María Reyes Herrera",
       "clase": "Canto 2",
       "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
       "disciplina": "Canto"
     },
     {
       "nombre": "Edith María Reyes Herrera",
       "clase": "Técnica del Canto 2",
       "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
       "disciplina": "Canto"
     }
   ],
-  "w)6;": [
+  "bW34": [
     {
-      "nombre": "Maite Victoria Sequeira Matus",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 90.0,
-      "teorico": 95.0,
-      "notaFinal": 92.5,
-      "disciplina": "Guitarra"
+      "nombre": "Fernanda Jael Herrera Espinoza",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 93,
+      "disciplina": "Canto"
     },
     {
-      "nombre": "Maite Victoria Sequeira Matus",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
-      "disciplina": "Emociones"
+      "nombre": "Fernanda Jael Herrera Espinoza",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
+      "disciplina": "Canto"
     }
   ],
-  "zK1]": [
+  "sv96": [
     {
-      "nombre": "Elías Raúl Zúniga",
+      "nombre": "Fernanda Sophia Miranda Martinez",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Fernanda Sophia Miranda Martinez",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "B74F": [
+    {
+      "nombre": "Giselle Abigail Martínez Grande",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Giselle Abigail Martínez Grande",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "C0e1": [
+    {
+      "nombre": "Harry Isaías Jarquin García",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 86,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Harry Isaías Jarquin García",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "yb97": [
+    {
+      "nombre": "Jennifer Kate Reyes Vallecillo",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Jennifer Kate Reyes Vallecillo",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Jennifer Kate Reyes Vallecillo",
       "clase": "Armonía",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
+      "acumulado": 0,
+      "practico": 65,
+      "teorico": 65,
+      "notaFinal": 65,
       "disciplina": "Piano"
     }
   ],
-  "/m0N": [
+  "3Jh1": [
     {
-      "nombre": "John Danny Villegas Valdez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 18.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 88.0,
+      "nombre": "Jeyner Antonio Téllez Medrano",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
       "disciplina": "Canto"
     },
     {
-      "nombre": "John Danny Villegas Valdez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
+      "nombre": "Jeyner Antonio Téllez Medrano",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
       "disciplina": "Canto"
     }
   ],
-  "5]SZ": [
+  "d6v6": [
     {
-      "nombre": "Valerie López Muñoz",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 90.0,
-      "teorico": 95.0,
-      "notaFinal": 92.5,
-      "disciplina": "Guitarra"
-    }
-  ],
-  "6,f;": [
-    {
-      "nombre": "Moises Emilio Arroliga Espinoza",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 18.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 88.0,
+      "nombre": "Lía Betzabé Herrera Espinoza",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
       "disciplina": "Canto"
     },
     {
-      "nombre": "Moises Emilio Arroliga Espinoza",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Moises Emilio Arroliga Espinoza",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 94.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "8Aw>": [
-    {
-      "nombre": "Jubal Arauz Ponce",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 94.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  ";@2Z": [
-    {
-      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
-      "clase": "Ballet Clásico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 41.0,
-      "teorico": 44.0,
-      "notaFinal": 85.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
-      "clase": "Danza con Instrumentos",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 67.0,
-      "teorico": 0.0,
-      "notaFinal": 67.0,
-      "disciplina": "Danza"
-    },
-    {
-      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "6%e3": [
-    {
-      "nombre": "Emma Ester Acuña Calvo",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 7.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 67.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Emma Ester Acuña Calvo",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 78.0,
+      "nombre": "Lía Betzabé Herrera Espinoza",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
       "disciplina": "Canto"
     }
   ],
-  "}sg6": [
+  "1U2a": [
+    {
+      "nombre": "María Belén Umanzor Padilla",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "María Belén Umanzor Padilla",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "7m9G": [
+    {
+      "nombre": "Michael Alexander Rivas Pinéda",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Michael Alexander Rivas Pinéda",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "64rK": [
+    {
+      "nombre": "Rebecca Nicole Yañes Solís",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Rebecca Nicole Yañes Solís",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "H7Y1": [
+    {
+      "nombre": "Reynaldo Elías Durán Díaz",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Reynaldo Elías Durán Díaz",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    }
+  ],
+  "WK04": [
+    {
+      "nombre": "Samuel Elí Lorente Icabalceta",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Samuel Elí Lorente Icabalceta",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "44al": [
+    {
+      "nombre": "Stefany Lizbeth Bonilla Martínez",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Stefany Lizbeth Bonilla Martínez",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
+      "disciplina": "Canto"
+    }
+  ],
+  "6EF7": [
+    {
+      "nombre": "Victoria Elizabeth Sandoval Astacio",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Victoria Elizabeth Sandoval Astacio",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "yr71": [
+    {
+      "nombre": "Yoanna Hurtado Poll",
+      "clase": "Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Yoanna Hurtado Poll",
+      "clase": "Técnica del Canto 2",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Canto"
+    }
+  ],
+  "5pl5": [
+    {
+      "nombre": "Farieska Litmaris Hernádez Castillo",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 58,
+      "practico": 0,
+      "teorico": 38,
+      "notaFinal": 96,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Farieska Litmaris Hernádez Castillo",
+      "clase": "Canto Elemental",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 92,
+      "teorico": 90,
+      "notaFinal": 91,
+      "disciplina": "Canto"
+    }
+  ],
+  "j72L": [
+    {
+      "nombre": "Isaac Antonio Escorcia Navarro",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 49,
+      "practico": 0,
+      "teorico": 30,
+      "notaFinal": 79,
+      "disciplina": "Canto"
+    },
+    {
+      "nombre": "Isaac Antonio Escorcia Navarro",
+      "clase": "Canto Elemental",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 88,
+      "teorico": 85,
+      "notaFinal": 86.5,
+      "disciplina": "Canto"
+    }
+  ],
+  "H4M0": [
     {
       "nombre": "Valentina Esther Zeledón López",
       "clase": "Iniciación Musical",
       "nivel": "K",
-      "acumulado": 54.0,
-      "practico": 0.0,
-      "teorico": 38.0,
-      "notaFinal": 92.0,
+      "acumulado": 54,
+      "practico": 0,
+      "teorico": 38,
+      "notaFinal": 92,
       "disciplina": "Canto"
     },
     {
       "nombre": "Valentina Esther Zeledón López",
       "clase": "Canto Elemental",
       "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 100.0,
-      "teorico": 97.0,
+      "acumulado": 0,
+      "practico": 100,
+      "teorico": 97,
       "notaFinal": 98.5,
       "disciplina": "Canto"
     },
@@ -2624,777 +1648,1917 @@
       "nombre": "Valentina Esther Zeledón López",
       "clase": "Voleibol",
       "nivel": "Voleibol",
-      "acumulado": 45.0,
-      "practico": 13.0,
-      "teorico": 18.0,
-      "notaFinal": 76.0,
+      "acumulado": 45,
+      "practico": 13,
+      "teorico": 18,
+      "notaFinal": 76,
       "disciplina": "Deportes"
     }
   ],
-  "^>b4": [
+  "d17m": [
     {
-      "nombre": "Tommy Xavier Varela Castrillo",
+      "nombre": "Ana Joyce Torrez Rodriguez",
       "clase": "Armonía",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 55.0,
-      "teorico": 55.0,
-      "notaFinal": 55.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
       "disciplina": "Piano"
     }
   ],
-  "B+T7": [
+  "83ja": [
     {
-      "nombre": "Gilberto Benjamín Escorcia Paguaga",
-      "clase": "Guitarra Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 95.0,
-      "teorico": 85.0,
-      "notaFinal": 90.0,
-      "disciplina": "Guitarra"
-    }
-  ],
-  ">a&4": [
-    {
-      "nombre": "Karen Alejandra Zeledón Padilla",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 22.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 92.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Karen Alejandra Zeledón Padilla",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "t1]g": [
-    {
-      "nombre": "Aarón Jared Mendoza Flores",
-      "clase": "Guitarra Intermedio",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 70.0,
-      "teorico": 75.0,
-      "notaFinal": 72.5,
-      "disciplina": "Guitarra"
-    }
-  ],
-  ".r7w": [
-    {
-      "nombre": "Jeremy Jafet Espinoza Hernández",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Batería"
-    }
-  ],
-  ":A2]": [
-    {
-      "nombre": "José Luis Hernández Cano",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Batería"
-    }
-  ],
-  "}01V": [
-    {
-      "nombre": "Saraí Dilenia Sandino Rojas",
+      "nombre": "Ángel Sebastián Luna Munguía",
       "clase": "Armonía",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 80.0,
-      "teorico": 80.0,
-      "notaFinal": 80.0,
-      "disciplina": "Piano"
-    },
-    {
-      "nombre": "Saraí Dilenia Sandino Rojas",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 92.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "!9Jv": [
-    {
-      "nombre": "Ismael David Chávez Alvaréz",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Batería"
-    }
-  ],
-  ",78v": [
-    {
-      "nombre": "Alejandra Nicole Villagra Torres",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Alejandra Nicole Villagra Torres",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "5d:I": [
-    {
-      "nombre": "Emily Katalina Amaya Saravia",
-      "clase": "Voleibol",
-      "nivel": "Voleibol",
-      "acumulado": 39.0,
-      "practico": 9.0,
-      "teorico": 12.0,
-      "notaFinal": 60.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "J]2[": [
-    {
-      "nombre": "Skarleth Farideth Gadea González",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 65.0,
-      "teorico": 65.0,
-      "notaFinal": 65.0,
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 85,
+      "notaFinal": 85,
       "disciplina": "Piano"
     }
   ],
-  "rD=9": [
+  "5L7B": [
     {
-      "nombre": "Lenin Matías Cerna Velazques",
-      "clase": "Básico Drums",
+      "nombre": "Angie Giselle González Amador",
+      "clase": "Armonía",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 93.0,
-      "disciplina": "Batería"
+      "acumulado": 0,
+      "practico": 60,
+      "teorico": 60,
+      "notaFinal": 60,
+      "disciplina": "Piano"
     }
   ],
-  "/tQ8": [
-    {
-      "nombre": "Allison Paola Mayorga Anton",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Allison Paola Mayorga Anton",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  ")o5z": [
-    {
-      "nombre": "Alexander Samuel Gutiérrez Carvajal",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 27.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 97.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Alexander Samuel Gutiérrez Carvajal",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Alexander Samuel Gutiérrez Carvajal",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "r}V2": [
+  "6u0T": [
     {
       "nombre": "Camila Granados Hernández",
       "clase": "Armonía",
       "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 70.0,
-      "teorico": 70.0,
-      "notaFinal": 70.0,
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 70,
+      "notaFinal": 70,
       "disciplina": "Piano"
     }
   ],
-  ")1p6": [
+  "U85D": [
     {
-      "nombre": "Esther Saraí Canales Manzanares",
+      "nombre": "Cristian Ernesto Sequeira Castilla",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Piano"
+    }
+  ],
+  "4MQ3": [
+    {
+      "nombre": "Dennyse Camila Espinoza Venegas",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Piano"
+    }
+  ],
+  "4UP6": [
+    {
+      "nombre": "Diego Sebastian Rodríguez Herrera",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 90,
+      "notaFinal": 90,
+      "disciplina": "Piano"
+    }
+  ],
+  "5y1a": [
+    {
+      "nombre": "Elías Raúl Zúniga",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Piano"
+    }
+  ],
+  "6Z2y": [
+    {
+      "nombre": "Eyleen Carolina Zeledón Pineda",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Piano"
+    }
+  ],
+  "1TJ5": [
+    {
+      "nombre": "Fátima Marbelly Pasos López",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Piano"
+    }
+  ],
+  "71aH": [
+    {
+      "nombre": "Gabriela Elena Aguilar Lopez",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 60,
+      "teorico": 60,
+      "notaFinal": 60,
+      "disciplina": "Piano"
+    }
+  ],
+  "x1q0": [
+    {
+      "nombre": "Ian Alberto Oviedo Borge",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 10,
+      "teorico": 10,
+      "notaFinal": 10,
+      "disciplina": "Piano"
+    }
+  ],
+  "4fB0": [
+    {
+      "nombre": "Leyla Abigail Flores Lopez",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 10,
+      "teorico": 10,
+      "notaFinal": 10,
+      "disciplina": "Piano"
+    }
+  ],
+  "yh15": [
+    {
+      "nombre": "Liliana Edith Gadea González",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Piano"
+    }
+  ],
+  "4YZ7": [
+    {
+      "nombre": "María Lourdes Salgado Cerna",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 70,
+      "notaFinal": 70,
+      "disciplina": "Piano"
+    },
+    {
+      "nombre": "María Lourdes Salgado Cerna",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 93,
+      "disciplina": "Emociones"
+    }
+  ],
+  "Rb72": [
+    {
+      "nombre": "Marlon Enrique Calderón Parrales",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 70,
+      "notaFinal": 70,
+      "disciplina": "Piano"
+    }
+  ],
+  "M10q": [
+    {
+      "nombre": "Melissa Jashuara García Morales",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 70,
+      "notaFinal": 70,
+      "disciplina": "Piano"
+    },
+    {
+      "nombre": "Melissa Jashuara García Morales",
       "clase": "Idiomas",
       "nivel": "Inglés",
-      "acumulado": 0.0,
-      "practico": 30.0,
-      "teorico": 23.0,
-      "notaFinal": 53.0,
+      "acumulado": 0,
+      "practico": 43,
+      "teorico": 45,
+      "notaFinal": 88,
       "disciplina": "Idiomas"
     }
   ],
-  ">e82": [
+  "2t6E": [
+    {
+      "nombre": "Miguel Ángel Ruíz Saravia",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Piano"
+    }
+  ],
+  "90Er": [
+    {
+      "nombre": "Saraí Dilenia Sandino Rojas",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Piano"
+    },
+    {
+      "nombre": "Saraí Dilenia Sandino Rojas",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 92,
+      "disciplina": "Emociones"
+    }
+  ],
+  "68kH": [
+    {
+      "nombre": "Skarleth Farideth Gadea González",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 65,
+      "teorico": 65,
+      "notaFinal": 65,
+      "disciplina": "Piano"
+    }
+  ],
+  "C2L5": [
+    {
+      "nombre": "Tommy Xavier Varela Castrillo",
+      "clase": "Armonía",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 55,
+      "teorico": 55,
+      "notaFinal": 55,
+      "disciplina": "Piano"
+    }
+  ],
+  "9c1R": [
+    {
+      "nombre": "Andrés Sebastián Urey Bustamante",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 95,
+      "teorico": 95,
+      "notaFinal": 95,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "or47": [
+    {
+      "nombre": "Gabriel Elías Madrigal Jarquín",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "P42w": [
+    {
+      "nombre": "Gilberto Benjamín Escorcia Paguaga",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 95,
+      "teorico": 85,
+      "notaFinal": 90,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "6l8g": [
+    {
+      "nombre": "Maite Victoria Sequeira Matus",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 95,
+      "notaFinal": 92.5,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Maite Victoria Sequeira Matus",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Emociones"
+    }
+  ],
+  "v4b9": [
+    {
+      "nombre": "Marcos Aurelio Barrantes Linarte",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 95,
+      "teorico": 95,
+      "notaFinal": 95,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "5jD8": [
+    {
+      "nombre": "Ricardo José Sánchez Miranda",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 95,
+      "notaFinal": 90,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "4yu8": [
+    {
+      "nombre": "Samuel Ismael Mercado Valerio",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "s5U8": [
+    {
+      "nombre": "Valerie López Muñoz",
+      "clase": "Guitarra Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 95,
+      "notaFinal": 92.5,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Valerie López Muñoz",
+      "clase": "Artes Plásticas Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "NV96": [
+    {
+      "nombre": "Aarón Jared Mendoza Flores",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 75,
+      "notaFinal": 72.5,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "25gN": [
+    {
+      "nombre": "Ailen Jolibeth Torres Rodríguez",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "k4e8": [
+    {
+      "nombre": "Dany Josué Robleto Mendoza",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Dany Josué Robleto Mendoza",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    }
+  ],
+  "70oN": [
+    {
+      "nombre": "Jonathan Gabriel Baez Hernandez",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 75,
+      "notaFinal": 77.5,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "54Gz": [
+    {
+      "nombre": "Leónidas Antonio Lacayo Hernández",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 90,
+      "notaFinal": 87.5,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Leónidas Antonio Lacayo Hernández",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Emociones"
+    }
+  ],
+  "Ik84": [
+    {
+      "nombre": "Millie Alexandra Delgado Zambrana",
+      "clase": "Guitarra Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 80,
+      "notaFinal": 80,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Millie Alexandra Delgado Zambrana",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    }
+  ],
+  "K8q6": [
+    {
+      "nombre": "Diego Jazel Otero Ponce",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 46,
+      "practico": 0,
+      "teorico": 24,
+      "notaFinal": 70,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Diego Jazel Otero Ponce",
+      "clase": "Fundamentos de la Guitarra",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 60,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "Qa92": [
+    {
+      "nombre": "Edwin Abraham Ramírez Palacios",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 60,
+      "practico": 0,
+      "teorico": 35,
+      "notaFinal": 95,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Edwin Abraham Ramírez Palacios",
+      "clase": "Fundamentos de la Guitarra",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "yI64": [
+    {
+      "nombre": "Jared David Espinoza Sotelo",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 44,
+      "practico": 0,
+      "teorico": 29,
+      "notaFinal": 73,
+      "disciplina": "Guitarra"
+    },
+    {
+      "nombre": "Jared David Espinoza Sotelo",
+      "clase": "Fundamentos de la Guitarra",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 80,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Guitarra"
+    }
+  ],
+  "3lk4": [
+    {
+      "nombre": "Álvaro Francisco Romero Olivares",
+      "clase": "Bajo Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Bajo"
+    }
+  ],
+  "71HN": [
+    {
+      "nombre": "Christian José Carrión Hernández",
+      "clase": "Bajo Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Bajo"
+    }
+  ],
+  "0y5D": [
+    {
+      "nombre": "Luis Ángel Lumbí Jarquín",
+      "clase": "Sonido Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Sonido"
+    }
+  ],
+  "6Ho5": [
+    {
+      "nombre": "Álvaro Isaac Berrios Padilla",
+      "clase": "Sonido Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Sonido"
+    },
+    {
+      "nombre": "Álvaro Isaac Berrios Padilla",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 91,
+      "disciplina": "Emociones"
+    }
+  ],
+  "oD77": [
+    {
+      "nombre": "Christian Martín Tellez Palacios",
+      "clase": "Sonido Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Sonido"
+    }
+  ],
+  "di21": [
+    {
+      "nombre": "Ricardo Steven Ortíz Aguirre",
+      "clase": "Sonido Intermedio",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 63,
+      "disciplina": "Sonido"
+    }
+  ],
+  "g7h3": [
+    {
+      "nombre": "Abigail Omaly Arce Rosales",
+      "clase": "Ballet Clásico",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 46,
+      "teorico": 42,
+      "notaFinal": 88,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Abigail Omaly Arce Rosales",
+      "clase": "Danza Interpretativa",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 42,
+      "teorico": 49,
+      "notaFinal": 91,
+      "disciplina": "Danza"
+    }
+  ],
+  "1z4m": [
+    {
+      "nombre": "Elizabeth Sofía Carrillo Soto",
+      "clase": "Ballet Clásico",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 35,
+      "teorico": 30,
+      "notaFinal": 65,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Elizabeth Sofía Carrillo Soto",
+      "clase": "Preparación Física",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 42,
+      "teorico": 49,
+      "notaFinal": 91,
+      "disciplina": "Danza"
+    }
+  ],
+  "y13z": [
     {
       "nombre": "Emily Jair Ruiz Granados",
       "clase": "Ballet Clásico",
       "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 38.0,
-      "teorico": 32.0,
-      "notaFinal": 70.0,
+      "acumulado": 0,
+      "practico": 38,
+      "teorico": 32,
+      "notaFinal": 70,
       "disciplina": "Danza"
     },
     {
       "nombre": "Emily Jair Ruiz Granados",
       "clase": "Preparación Física",
       "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 45.0,
-      "teorico": 50.0,
-      "notaFinal": 95.0,
+      "acumulado": 0,
+      "practico": 45,
+      "teorico": 50,
+      "notaFinal": 95,
       "disciplina": "Danza"
     }
   ],
-  "^4!T": [
+  "5Yl4": [
     {
-      "nombre": "Lía Betzabé Herrera Espinoza",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Canto"
+      "nombre": "Ester Nohemí Rodríguez Sánchez",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 36,
+      "teorico": 37,
+      "notaFinal": 73,
+      "disciplina": "Danza"
     },
     {
-      "nombre": "Lía Betzabé Herrera Espinoza",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Canto"
+      "nombre": "Ester Nohemí Rodríguez Sánchez",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 91,
+      "teorico": 0,
+      "notaFinal": 91,
+      "disciplina": "Danza"
     }
   ],
-  "]4G2": [
+  "x15h": [
     {
-      "nombre": "Christian José Carrión Hernández",
-      "clase": "Bajo",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Bajo"
+      "nombre": "Gabriela Sarahí Perez Chavarria",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 37,
+      "teorico": 36,
+      "notaFinal": 73,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Gabriela Sarahí Perez Chavarria",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 91,
+      "teorico": 0,
+      "notaFinal": 91,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Gabriela Sarahí Perez Chavarria",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 88,
+      "disciplina": "Emociones"
     }
   ],
-  ",9[W": [
+  "Z4a5": [
     {
-      "nombre": "Jan Renie Ponce",
-      "clase": "Intermedio Drums",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 87.0,
+      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 41,
+      "teorico": 44,
+      "notaFinal": 85,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 67,
+      "teorico": 0,
+      "notaFinal": 67,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Itzel Yarietzi Gutiérrez Navarro",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Emociones"
+    }
+  ],
+  "Z1r7": [
+    {
+      "nombre": "Kamila Nazareth Téllez Ortega",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 36,
+      "teorico": 45,
+      "notaFinal": 81,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Kamila Nazareth Téllez Ortega",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 91,
+      "teorico": 0,
+      "notaFinal": 91,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Kamila Nazareth Téllez Ortega",
+      "clase": "Idiomas",
+      "nivel": "Portugués",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 9,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "47wP": [
+    {
+      "nombre": "Maritsa Daniela Pineda López",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 33,
+      "teorico": 37,
+      "notaFinal": 70,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Maritsa Daniela Pineda López",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 65,
+      "teorico": 0,
+      "notaFinal": 65,
+      "disciplina": "Danza"
+    }
+  ],
+  "04fw": [
+    {
+      "nombre": "Rossy Liseth Box Gaitán",
+      "clase": "Ballet Clásico",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 37,
+      "teorico": 37,
+      "notaFinal": 74,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Rossy Liseth Box Gaitán",
+      "clase": "Preparación Física",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 43,
+      "teorico": 50,
+      "notaFinal": 93,
+      "disciplina": "Danza"
+    }
+  ],
+  "Xk47": [
+    {
+      "nombre": "Samara Nohemí Gutiérrez Navarro",
+      "clase": "Ballet Clásico",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 36,
+      "teorico": 30,
+      "notaFinal": 66,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Samara Nohemí Gutiérrez Navarro",
+      "clase": "Preparación Física",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 35,
+      "teorico": 45,
+      "notaFinal": 80,
+      "disciplina": "Danza"
+    }
+  ],
+  "64ce": [
+    {
+      "nombre": "Teresa Geraldine Ponce Quezada",
+      "clase": "Ballet Clásico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 43,
+      "teorico": 44,
+      "notaFinal": 87,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Teresa Geraldine Ponce Quezada",
+      "clase": "Danza con Instrumentos",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 87,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Danza"
+    },
+    {
+      "nombre": "Teresa Geraldine Ponce Quezada",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 74,
+      "disciplina": "Emociones"
+    }
+  ],
+  "03Al": [
+    {
+      "nombre": "Amy Flores Montalván",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 73,
+      "disciplina": "Emociones"
+    }
+  ],
+  "0To7": [
+    {
+      "nombre": "Angie Gissell González Amador",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 42,
+      "disciplina": "Emociones"
+    }
+  ],
+  "JS42": [
+    {
+      "nombre": "Ariel Josué Paizano Gonzales",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    }
+  ],
+  "H2b2": [
+    {
+      "nombre": "Derick Neftalí Luna Dávila",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    },
+    {
+      "nombre": "Derick Neftalí Luna Dávila",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
       "disciplina": "Batería"
     }
   ],
-  "$BZ5": [
+  "l6k0": [
     {
-      "nombre": "Fernanda Jael Herrera Espinoza",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 93.0,
-      "disciplina": "Canto"
+      "nombre": "Diego Ismael Calonge Mejía",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 89.5,
+      "disciplina": "Emociones"
     },
     {
-      "nombre": "Fernanda Jael Herrera Espinoza",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Canto"
+      "nombre": "Diego Ismael Calonge Mejía",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
+      "disciplina": "Batería"
     }
   ],
-  "j3{K": [
+  "Q9Z3": [
+    {
+      "nombre": "Edgard Alfonso García Lacayo",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Emociones"
+    }
+  ],
+  "0c9k": [
+    {
+      "nombre": "Elías Ezequiel Espinoza Hernández",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 94,
+      "disciplina": "Emociones"
+    }
+  ],
+  "t39C": [
+    {
+      "nombre": "Esther Nohemí Hernández Acevedo",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 96,
+      "disciplina": "Emociones"
+    }
+  ],
+  "8ok3": [
+    {
+      "nombre": "Génesis Betzabe Vega Lopez",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 78,
+      "disciplina": "Emociones"
+    }
+  ],
+  "l3Z7": [
+    {
+      "nombre": "Gibrán Abdiel Colomer Gonzáles",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Emociones"
+    },
+    {
+      "nombre": "Gibrán Abdiel Colomer Gonzáles",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Batería"
+    }
+  ],
+  "3Z5p": [
+    {
+      "nombre": "John Danny Villigas Valdés",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 93,
+      "disciplina": "Emociones"
+    }
+  ],
+  "4oC3": [
+    {
+      "nombre": "Jonathan Gabriel Baez Hernández",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 93,
+      "disciplina": "Emociones"
+    }
+  ],
+  "g6D1": [
+    {
+      "nombre": "José Antonio Calonge Martin",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Emociones"
+    }
+  ],
+  "1r2N": [
+    {
+      "nombre": "Josué Isaac Montano",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 79.5,
+      "disciplina": "Emociones"
+    }
+  ],
+  "1tG4": [
+    {
+      "nombre": "Jubal Arauz Ponce",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 94,
+      "disciplina": "Emociones"
+    }
+  ],
+  "3vA8": [
+    {
+      "nombre": "Julio Eliseo Martínez Grande",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 88,
+      "disciplina": "Emociones"
+    }
+  ],
+  "y6I2": [
+    {
+      "nombre": "Martín Alonso Picado Rivera",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 98,
+      "disciplina": "Emociones"
+    }
+  ],
+  "w47M": [
+    {
+      "nombre": "Rodolfo Josué Jarquín Rocha",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 77.5,
+      "disciplina": "Emociones"
+    },
+    {
+      "nombre": "Rodolfo Josué Jarquín Rocha",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 47,
+      "disciplina": "Batería"
+    }
+  ],
+  "48eG": [
+    {
+      "nombre": "Sandro Josué Flores",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 83,
+      "disciplina": "Emociones"
+    }
+  ],
+  "3UZ0": [
+    {
+      "nombre": "Sofía Julieth Matamoros Lumbi",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 44,
+      "disciplina": "Emociones"
+    }
+  ],
+  "t70w": [
     {
       "nombre": "Steven Josué Chavez C.",
       "clase": "Emociones",
       "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
       "disciplina": "Emociones"
     }
   ],
-  "]80L": [
+  "55fJ": [
+    {
+      "nombre": "Victor Isaías Soto González",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 79,
+      "disciplina": "Emociones"
+    }
+  ],
+  "qn69": [
+    {
+      "nombre": "Xanders Yareth Arce Rosales",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 100,
+      "disciplina": "Emociones"
+    }
+  ],
+  "ly98": [
+    {
+      "nombre": "Yeshua Villagra Torrez",
+      "clase": "Emociones",
+      "nivel": "",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 92,
+      "disciplina": "Emociones"
+    }
+  ],
+  "j5n0": [
+    {
+      "nombre": "Adriana Marina Luna Osorio",
+      "clase": "Idiomas",
+      "nivel": "Inglés",
+      "acumulado": 0,
+      "practico": 40,
+      "teorico": 45,
+      "notaFinal": 85,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "2O4Z": [
+    {
+      "nombre": "Ana Sofía Aguilar López",
+      "clase": "Idiomas",
+      "nivel": "Francés",
+      "acumulado": 0,
+      "practico": 74,
+      "teorico": 0,
+      "notaFinal": 37,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "P10H": [
+    {
+      "nombre": "Elías Samuel Balladares Zelaya",
+      "clase": "Idiomas",
+      "nivel": "Portugués",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 9,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "a4b1": [
+    {
+      "nombre": "Esther Saraí Canales Manzanares",
+      "clase": "Idiomas",
+      "nivel": "Inglés",
+      "acumulado": 0,
+      "practico": 30,
+      "teorico": 23,
+      "notaFinal": 53,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "4GN0": [
+    {
+      "nombre": "Jeremy Eduardo Torrez García",
+      "clase": "Idiomas",
+      "nivel": "Francés",
+      "acumulado": 0,
+      "practico": 79,
+      "teorico": 0,
+      "notaFinal": 39.5,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "n30V": [
+    {
+      "nombre": "José Elías Vallejos Castellón",
+      "clase": "Idiomas",
+      "nivel": "Inglés",
+      "acumulado": 0,
+      "practico": 30,
+      "teorico": 40,
+      "notaFinal": 70,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "7nT4": [
+    {
+      "nombre": "Rita Fabiola Reyes López",
+      "clase": "Idiomas",
+      "nivel": "Inglés",
+      "acumulado": 0,
+      "practico": 40,
+      "teorico": 43,
+      "notaFinal": 83,
+      "disciplina": "Idiomas"
+    }
+  ],
+  "22hB": [
+    {
+      "nombre": "Alejandra Isabela Rodriguez Herrera",
+      "clase": "Voleibol",
+      "nivel": "Voleibol",
+      "acumulado": 50,
+      "practico": 14,
+      "teorico": 18,
+      "notaFinal": 82,
+      "disciplina": "Deportes"
+    }
+  ],
+  "8F5b": [
+    {
+      "nombre": "Emily Katalina Amaya Saravia",
+      "clase": "Voleibol",
+      "nivel": "Voleibol",
+      "acumulado": 39,
+      "practico": 9,
+      "teorico": 12,
+      "notaFinal": 60,
+      "disciplina": "Deportes"
+    }
+  ],
+  "b8M7": [
+    {
+      "nombre": "André Josué Flores Ponce",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 51,
+      "practico": 20,
+      "teorico": 20,
+      "notaFinal": 91,
+      "disciplina": "Deportes"
+    },
+    {
+      "nombre": "André Josué Flores Ponce",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "7l0N": [
+    {
+      "nombre": "Hendrick Neftali Jarquín Moreno",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 59,
+      "practico": 20,
+      "teorico": 20,
+      "notaFinal": 99,
+      "disciplina": "Deportes"
+    }
+  ],
+  "Z52u": [
+    {
+      "nombre": "Isaí Román Corea González",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 60,
+      "practico": 10,
+      "teorico": 10,
+      "notaFinal": 80,
+      "disciplina": "Deportes"
+    }
+  ],
+  "64HX": [
+    {
+      "nombre": "Joshua David Muller Castillo",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 51,
+      "practico": 20,
+      "teorico": 19,
+      "notaFinal": 90,
+      "disciplina": "Deportes"
+    }
+  ],
+  "pB25": [
+    {
+      "nombre": "Juan Ramón Rodríguez Estrada",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 60,
+      "practico": 10,
+      "teorico": 10,
+      "notaFinal": 80,
+      "disciplina": "Deportes"
+    }
+  ],
+  "09jG": [
+    {
+      "nombre": "Julio César Lopez Membreño",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 58,
+      "practico": 20,
+      "teorico": 19,
+      "notaFinal": 97,
+      "disciplina": "Deportes"
+    }
+  ],
+  "T9w0": [
+    {
+      "nombre": "Samuel Alejandro Obando Zeledón",
+      "clase": "Fútbol",
+      "nivel": "Fútbol",
+      "acumulado": 51,
+      "practico": 20,
+      "teorico": 20,
+      "notaFinal": 91,
+      "disciplina": "Deportes"
+    }
+  ],
+  "cu96": [
+    {
+      "nombre": "Dorian Jared Hernández Caballero",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 40,
+      "disciplina": "Batería"
+    }
+  ],
+  "4fm0": [
+    {
+      "nombre": "Elías Gamaliel Vilchez López",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Batería"
+    }
+  ],
+  "8j4c": [
+    {
+      "nombre": "Franklin Isaac Callejas Treminio",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Batería"
+    }
+  ],
+  "05mh": [
+    {
+      "nombre": "Génesis Salazar",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Batería"
+    }
+  ],
+  "sL33": [
+    {
+      "nombre": "Ismael David Chávez Alvaréz",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Batería"
+    }
+  ],
+  "dU51": [
+    {
+      "nombre": "Jeremy Jafet Espinoza Hernández",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 75,
+      "disciplina": "Batería"
+    }
+  ],
+  "f7H5": [
+    {
+      "nombre": "Jubal Emmanuel Arauz Ponce",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 95,
+      "disciplina": "Batería"
+    }
+  ],
+  "X2N2": [
+    {
+      "nombre": "Julio Martínez Grande",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
+      "disciplina": "Batería"
+    }
+  ],
+  "z02K": [
+    {
+      "nombre": "Lenin Matías Cerna Velazques",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 93,
+      "disciplina": "Batería"
+    }
+  ],
+  "2L3N": [
+    {
+      "nombre": "Leticia Isabella Ulloa",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Batería"
+    }
+  ],
+  "97Qw": [
+    {
+      "nombre": "Sandro Josué Flores Palacios",
+      "clase": "Básico Drums",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Batería"
+    }
+  ],
+  "el63": [
+    {
+      "nombre": "Jan Renie Ponce",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 87,
+      "disciplina": "Batería"
+    }
+  ],
+  "04si": [
+    {
+      "nombre": "José Isaí Osorno",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 66,
+      "disciplina": "Batería"
+    }
+  ],
+  "4f8M": [
+    {
+      "nombre": "José Luis Hernández Cano",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 80,
+      "disciplina": "Batería"
+    }
+  ],
+  "1JC1": [
+    {
+      "nombre": "Martín Alonso Picado",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 68,
+      "disciplina": "Batería"
+    }
+  ],
+  "0KI9": [
+    {
+      "nombre": "Roger Alexander Torres García",
+      "clase": "Intermedio Drums",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Batería"
+    }
+  ],
+  "P4w2": [
+    {
+      "nombre": "Jair Arsenio Herrera Espinoza",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 31,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 31,
+      "disciplina": "Batería"
+    },
+    {
+      "nombre": "Jair Arsenio Herrera Espinoza",
+      "clase": "Elemental Drums",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Batería"
+    }
+  ],
+  "S7I5": [
+    {
+      "nombre": "Jasid Jasiel Colomer Gonzáles",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 46,
+      "practico": 0,
+      "teorico": 31,
+      "notaFinal": 77,
+      "disciplina": "Batería"
+    },
+    {
+      "nombre": "Jasid Jasiel Colomer Gonzáles",
+      "clase": "Elemental Drums",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
+      "disciplina": "Batería"
+    }
+  ],
+  "9b4e": [
     {
       "nombre": "Matías Gabriel Soto Hernández",
       "clase": "Iniciación Musical",
       "nivel": "K",
-      "acumulado": 38.0,
-      "practico": 0.0,
-      "teorico": 35.0,
-      "notaFinal": 73.0,
+      "acumulado": 38,
+      "practico": 0,
+      "teorico": 35,
+      "notaFinal": 73,
       "disciplina": "Batería"
     },
     {
       "nombre": "Matías Gabriel Soto Hernández",
       "clase": "Elemental Drums",
       "nivel": "K",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 60,
       "disciplina": "Batería"
     }
   ],
-  "1sU%": [
+  "3UY5": [
     {
-      "nombre": "Alejandra Isabela Rodriguez Herrera",
-      "clase": "Voleibol",
-      "nivel": "Voleibol",
-      "acumulado": 50.0,
-      "practico": 14.0,
-      "teorico": 18.0,
-      "notaFinal": 82.0,
-      "disciplina": "Deportes"
-    }
-  ],
-  "7%;u": [
-    {
-      "nombre": "Elías Ezequiel Espinoza Hernández",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 94.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "q68@": [
-    {
-      "nombre": "Rebecca Nicole Yañes Solís",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
+      "nombre": "Osmin Matías Soto Gonzales",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Batería"
     },
     {
-      "nombre": "Rebecca Nicole Yañes Solís",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "4!f2": [
-    {
-      "nombre": "Jeyner Antonio Téllez Medrano",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Jeyner Antonio Téllez Medrano",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 100.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "4]#G": [
-    {
-      "nombre": "José Gabriel Aldana Espinoza",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 13.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 73.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "José Gabriel Aldana Espinoza",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 62.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "9hF)": [
-    {
-      "nombre": "Brayan Josué Lagos Lazo",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 8.0,
-      "practico": 0.0,
-      "teorico": 10.0,
-      "notaFinal": 18.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Brayan Josué Lagos Lazo",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 45.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Brayan Josué Lagos Lazo",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 80.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  ">4D8": [
-    {
-      "nombre": "Carlos Eduardo Olivares Chavarría",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 18.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 18.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Carlos Eduardo Olivares Chavarría",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 0.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "6(:c": [
-    {
-      "nombre": "Luis Ángel Lumbí Jarquín",
-      "clase": "Sonido Básico",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Sonido"
-    }
-  ],
-  "?7q8": [
-    {
-      "nombre": "Jeremy Eduardo Torrez García",
-      "clase": "Idiomas",
-      "nivel": "Francés",
-      "acumulado": 0.0,
-      "practico": 79.0,
-      "teorico": 0.0,
-      "notaFinal": 39.5,
-      "disciplina": "Idiomas"
-    }
-  ],
-  "e,15": [
-    {
-      "nombre": "José Carlos Morales Cerna",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 19.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 89.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "José Carlos Morales Cerna",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "54Q=": [
-    {
-      "nombre": "Martín Alonso Picado Rivera",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 98.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "k>9,": [
-    {
-      "nombre": "Sandro Josué Flores Palacios",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 60.0,
+      "nombre": "Osmin Matías Soto Gonzales",
+      "clase": "Elemental Drums",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 70,
       "disciplina": "Batería"
     }
   ],
-  "uW8$": [
+  "O87I": [
     {
-      "nombre": "Kathia Liorseth Robleto Mendoza",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 24.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 84.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Kathia Liorseth Robleto Mendoza",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Kathia Liorseth Robleto Mendoza",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 92.5,
-      "disciplina": "Emociones"
-    }
-  ],
-  "+OR1": [
-    {
-      "nombre": "Sandra Nichole Jarquín Medina",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 60.0,
-      "notaFinal": 60.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Sandra Nichole Jarquín Medina",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 98.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "o}t3": [
-    {
-      "nombre": "María Belén Umanzor Padilla",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "María Belén Umanzor Padilla",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 90.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "{9iv": [
-    {
-      "nombre": "Stefany Lizbeth Bonilla Martínez",
-      "clase": "Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 95.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Stefany Lizbeth Bonilla Martínez",
-      "clase": "Técnica del Canto 2",
-      "nivel": "2",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 75.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "9|Ru": [
-    {
-      "nombre": "Angie Giselle González Amador",
-      "clase": "Armonía",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 60.0,
-      "teorico": 60.0,
-      "notaFinal": 60.0,
-      "disciplina": "Piano"
-    }
-  ],
-  "(,p6": [
-    {
-      "nombre": "Bayardo Antonio Hernández Sánchez",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 8.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 78.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "Bayardo Antonio Hernández Sánchez",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Canto"
-    }
-  ],
-  "6>>v": [
-    {
-      "nombre": "María Celeste Carrasco Obando",
-      "clase": "Anatomía del Canto",
-      "nivel": "1",
-      "acumulado": 16.0,
-      "practico": 0.0,
-      "teorico": 70.0,
-      "notaFinal": 86.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "María Celeste Carrasco Obando",
-      "clase": "Técnica del Canto 1",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 85.0,
-      "disciplina": "Canto"
-    },
-    {
-      "nombre": "María Celeste Carrasco Obando",
-      "clase": "Emociones",
-      "nivel": "",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 92.0,
-      "disciplina": "Emociones"
-    }
-  ],
-  "+to2": [
-    {
-      "nombre": "Dorian Jared Hernández Caballero",
-      "clase": "Básico Drums",
-      "nivel": "1",
-      "acumulado": 0.0,
-      "practico": 0.0,
-      "teorico": 0.0,
-      "notaFinal": 40.0,
+      "nombre": "Samuel Isaí Pérez Narváez",
+      "clase": "Iniciación Musical",
+      "nivel": "K",
+      "acumulado": 45,
+      "practico": 0,
+      "teorico": 25,
+      "notaFinal": 70,
       "disciplina": "Batería"
+    },
+    {
+      "nombre": "Samuel Isaí Pérez Narváez",
+      "clase": "Elemental Drums",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 40,
+      "disciplina": "Batería"
+    }
+  ],
+  "6Ar1": [
+    {
+      "nombre": "Adaia Analía Flores Ponce",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "cy84": [
+    {
+      "nombre": "Alice Rodríguez Obando",
+      "clase": "Artes Plásticas",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 90,
+      "teorico": 0,
+      "notaFinal": 90,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "z8l0": [
+    {
+      "nombre": "Avril Isabela Zoto Hernández",
+      "clase": "Artes Plásticas Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "30XU": [
+    {
+      "nombre": "Carlos Omar Carrillo Soto",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "a6E2": [
+    {
+      "nombre": "Daisy Nahomi Martínez Espinoza",
+      "clase": "Artes Plásticas Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "4es5": [
+    {
+      "nombre": "Gloria Alejandra Lacayo Sánchez",
+      "clase": "Artes Plásticas",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 70,
+      "teorico": 0,
+      "notaFinal": 70,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "H1e0": [
+    {
+      "nombre": "Isaac Jeremías Pérez Narváez",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "G5f1": [
+    {
+      "nombre": "Karla Johanna Saravia Gaitán",
+      "clase": "Artes Plásticas",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "a97Q": [
+    {
+      "nombre": "Minerva Argentina Guitierrez Arguello",
+      "clase": "Artes Plásticas Básico",
+      "nivel": "1",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "16tZ": [
+    {
+      "nombre": "Natán Ismael Mercado Valerio",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "C9U8": [
+    {
+      "nombre": "Sara Denisse García Morales",
+      "clase": "Artes Plásticas Kids",
+      "nivel": "K",
+      "acumulado": 0,
+      "practico": 0,
+      "teorico": 0,
+      "notaFinal": 0,
+      "disciplina": "Artes Plásticas"
+    }
+  ],
+  "u2a2": [
+    {
+      "nombre": "Yolaina Lorena Salazar Cuadra",
+      "clase": "Artes Plásticas",
+      "nivel": "2",
+      "acumulado": 0,
+      "practico": 85,
+      "teorico": 0,
+      "notaFinal": 85,
+      "disciplina": "Artes Plásticas"
     }
   ]
 }
