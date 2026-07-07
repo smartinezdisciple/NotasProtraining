@@ -2056,7 +2056,7 @@
   "NV96": [
     {
       "nombre": "Aarón Jared Mendoza Flores",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 70,
@@ -2068,7 +2068,7 @@
   "25gN": [
     {
       "nombre": "Ailen Jolibeth Torres Rodríguez",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2080,7 +2080,7 @@
   "k4e8": [
     {
       "nombre": "Dany Josué Robleto Mendoza",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 80,
@@ -2102,7 +2102,7 @@
   "70oN": [
     {
       "nombre": "Jonathan Gabriel Baez Hernandez",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 80,
@@ -2114,7 +2114,7 @@
   "54Gz": [
     {
       "nombre": "Leónidas Antonio Lacayo Hernández",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 85,
@@ -2136,7 +2136,7 @@
   "Ik84": [
     {
       "nombre": "Millie Alexandra Delgado Zambrana",
-      "clase": "Guitarra Intermedio",
+      "clase": "Guitarra ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 80,
@@ -2224,7 +2224,7 @@
   "3lk4": [
     {
       "nombre": "Álvaro Francisco Romero Olivares",
-      "clase": "Bajo Intermedio",
+      "clase": "Bajo ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2236,7 +2236,7 @@
   "71HN": [
     {
       "nombre": "Christian José Carrión Hernández",
-      "clase": "Bajo Intermedio",
+      "clase": "Bajo ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2260,7 +2260,7 @@
   "6Ho5": [
     {
       "nombre": "Álvaro Isaac Berrios Padilla",
-      "clase": "Sonido Intermedio",
+      "clase": "Sonido ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2282,7 +2282,7 @@
   "oD77": [
     {
       "nombre": "Christian Martín Tellez Palacios",
-      "clase": "Sonido Intermedio",
+      "clase": "Sonido ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2294,7 +2294,7 @@
   "di21": [
     {
       "nombre": "Ricardo Steven Ortíz Aguirre",
-      "clase": "Sonido Intermedio",
+      "clase": "Sonido ",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -2832,7 +2832,7 @@
     },
     {
       "nombre": "Rodolfo Josué Jarquín Rocha",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3250,7 +3250,7 @@
   "el63": [
     {
       "nombre": "Jan Renie Ponce",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3262,7 +3262,7 @@
   "04si": [
     {
       "nombre": "José Isaí Osorno",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3274,7 +3274,7 @@
   "4f8M": [
     {
       "nombre": "José Luis Hernández Cano",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3286,7 +3286,7 @@
   "1JC1": [
     {
       "nombre": "Martín Alonso Picado",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3298,7 +3298,7 @@
   "0KI9": [
     {
       "nombre": "Roger Alexander Torres García",
-      "clase": "Intermedio Drums",
+      "clase": "Batería",
       "nivel": "2",
       "acumulado": 0,
       "practico": 0,
@@ -3320,7 +3320,7 @@
     },
     {
       "nombre": "Jair Arsenio Herrera Espinoza",
-      "clase": "Elemental Drums",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 0,
       "practico": 0,
@@ -3342,7 +3342,7 @@
     },
     {
       "nombre": "Jasid Jasiel Colomer Gonzáles",
-      "clase": "Elemental Drums",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 0,
       "practico": 0,
@@ -3364,7 +3364,7 @@
     },
     {
       "nombre": "Matías Gabriel Soto Hernández",
-      "clase": "Elemental Drums",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 0,
       "practico": 0,
@@ -3386,7 +3386,7 @@
     },
     {
       "nombre": "Osmin Matías Soto Gonzales",
-      "clase": "Elemental Drums",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 0,
       "practico": 0,
@@ -3398,7 +3398,7 @@
   "O87I": [
     {
       "nombre": "Samuel Isaí Pérez Narváez",
-      "clase": "Iniciación Musical",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 45,
       "practico": 0,
@@ -3408,7 +3408,7 @@
     },
     {
       "nombre": "Samuel Isaí Pérez Narváez",
-      "clase": "Elemental Drums",
+      "clase": "Batería Elemental",
       "nivel": "K",
       "acumulado": 0,
       "practico": 0,
