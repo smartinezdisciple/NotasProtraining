@@ -34,7 +34,8 @@ function renderizarCursos(cursos) {
       for (const entry of entries) {
         sumaNotas += entry.notaFinal;
         totalCursos++;
-        clasesHtml += `
+        const aprobada = entry.notaFinal >= 60;
+      clasesHtml += `
           <div class="py-4 border-b border-white/5 last:border-b-0">
             <p class="text-white font-label-md text-label-md text-center">${entry.clase}</p>
             <div class="flex justify-center mt-2">
@@ -42,6 +43,11 @@ function renderizarCursos(cursos) {
                 <p class="font-label-sm text-label-sm text-on-surface-variant mb-1 uppercase tracking-widest opacity-70">Nota final</p>
                 <p class="font-headline-sm text-headline-sm text-secondary-fixed">${entry.notaFinal}</p>
               </div>
+            </div>
+            <div class="flex justify-center mt-3 border-t border-white/10 pt-2">
+              <span class="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full text-[11px] leading-[14px] font-semibold tracking-wide ${aprobada ? 'bg-white/10 text-white' : 'bg-red-600/80 text-white'}">
+                ${aprobada ? 'Aprobada' : 'Reprobada'}
+              </span>
             </div>
           </div>
         `;
@@ -73,6 +79,7 @@ function renderizarCursos(cursos) {
       sumaNotas += curso.notaFinal;
       totalCursos++;
 
+      const aprobadaCurso = curso.notaFinal >= 60;
       const card = document.createElement("div");
       card.className = "glass-panel rounded-xl p-6 group hover:bg-white/10 transition-all duration-300 hover:-translate-y-1 relative overflow-hidden";
       card.innerHTML = `
@@ -93,6 +100,11 @@ function renderizarCursos(cursos) {
             <p class="font-label-sm text-label-sm text-on-surface-variant mb-1 uppercase tracking-widest opacity-70">Nota final</p>
             <p class="font-headline-md text-headline-md text-secondary-fixed">${curso.notaFinal}</p>
           </div>
+        </div>
+        <div class="flex justify-center mt-3 border-t border-white/10 pt-2">
+          <span class="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full text-[11px] leading-[14px] font-semibold tracking-wide ${aprobadaCurso ? 'bg-white/10 text-white' : 'bg-red-600/80 text-white'}">
+            ${aprobadaCurso ? 'Aprobada' : 'Reprobada'}
+          </span>
         </div>
       `;
       contenedor.appendChild(card);
